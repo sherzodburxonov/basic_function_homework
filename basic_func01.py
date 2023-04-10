@@ -1,5 +1,5 @@
 # Create a function called main.
-def a():
+def main():
     return 0
 # Return the value 0
 print(a())
